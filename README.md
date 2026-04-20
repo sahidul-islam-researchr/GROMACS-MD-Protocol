@@ -5,7 +5,7 @@ This repository contains the computational workflow and methodology for the iden
 
 ## Research Abstract
 Alzheimer's disease is addressed by targeting cholinergic receptors AChE (PDB: 7AIY) and BChE (PDB: 7E3H). This project screens 18 phytoconstituents from 11 medicinal plant families to identify multi-target inhibitors with superior pharmacological profiles compared to existing FDA-approved treatments.
-![RMSD Analysis](images/RMSD_plot.png)
+![RMSD Analysis](images/Ligand_Torsion_Profile.tif)
 
 ## Computational Workflow & Tools
 The integrated pipeline covers the following stages:
