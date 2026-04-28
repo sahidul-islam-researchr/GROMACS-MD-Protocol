@@ -1,8 +1,3 @@
-# GROMACS MD Simulation & Analysis Protocol for Protein-Ligand System
-
-This repository contains all commands and workflows to run a molecular dynamics (MD) simulation and subsequent analysis using **GROMACS (CHARMM36 + TIP3P)**.  
-The protocol is designed for publication-ready results.
-
 # GROMACS MD Simulation & Analysis – Complete Command List
 
 This file contains all the commands needed to run a protein-ligand MD simulation and perform subsequent analysis using GROMACS (CHARMM36, TIP3P).
